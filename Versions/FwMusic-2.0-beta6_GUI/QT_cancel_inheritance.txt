@@ -1,0 +1,5 @@
+border-image: url('D:/Python Projects/FwMusic2/FwMusic-2.0-beta4_PIC/CityTheme2_use.png');
+background: rgb(175, 203, 255);
+font: 28pt "Times New Roman";  # 字体
+color:rgb(71, 99, 255);  # 字的颜色
+border-image: Transparent;  # 透明

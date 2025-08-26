@@ -1,0 +1,37 @@
+FwMusic v.2.0-beta1
+- 修复了一些Bug
+- 重写了LocalAPI，减小了程序大小
+- 去除了图形化界面
+
+
+FwMusic v2.0-beta2_emergency_fix
+- 重写了爬取id部分，突破wyy的封控
+- 依赖 https://163api.qijieya.cn/
+
+
+FwMusic v2.0-beta3
+- 修复了Playlist功能无法使用的问题
+
+
+FwMusic v2.0-beta4
+-准备了图片
+
+
+FwMusic v2.0-beta5
+-加入了vip下载功能
+-依赖 https://www.byfuns.top
+-加入了更多在线api (暂未启用)
+
+
+FwMusic v2.0-beta6
+-制作了简易的GUI(未使用)
+
+
+FwMusic v2.0-beta7
+-修复了一些Bug
+-Vip下载已经可以使用
+
+
+FwMusic v2.0-beta8
+-修复了全歌单爬取
+-FwApi版本: 20108, 不兼容以前的版本

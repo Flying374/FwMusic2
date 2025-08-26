@@ -1,0 +1,9 @@
+FwMusic v.2.0-beta1
+- 修复了一些Bug
+- 重写了LocalAPI，减小了程序大小
+- 去除了图形化界面
+
+
+FwMusic v2.0-beta2_emergency_fix
+- 重写了爬取id部分，突破wyy的封控
+- 依赖 https://163api.qijieya.cn/
