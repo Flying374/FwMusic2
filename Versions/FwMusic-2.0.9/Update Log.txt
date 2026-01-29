@@ -1,0 +1,84 @@
+﻿FwMusic v.2.0-beta1
+- 修复了一些Bug
+- 重写了LocalAPI，减小了程序大小
+- 去除了图形化界面
+
+
+FwMusic v2.0-beta2_emergency_fix
+- 重写了爬取id部分，突破wyy的封控
+- 依赖 https://163api.qijieya.cn/
+
+
+FwMusic v2.0-beta3
+- 修复了Playlist功能无法使用的问题
+
+
+FwMusic v2.0-beta4
+-准备了图片
+
+
+FwMusic v2.0-beta5
+-加入了vip下载功能
+-依赖 https://www.byfuns.top
+-加入了更多在线api (暂未启用)
+
+
+FwMusic v2.0-beta6
+-制作了简易的GUI(未使用)
+
+
+FwMusic v2.0-beta7
+-修复了一些Bug
+-Vip下载已经可以使用
+
+
+FwMusic v2.0-beta8
+-修复了全歌单爬取
+-FwApi版本: 20108, 不兼容以前的版本
+
+
+FwMusic v2.0-beta9c
+-此版本仅用来爬取评论
+
+FwMusic v2.0-beta9
+-制作了一个可以运行的UI
+
+FwMusic v2.0.0C
+-基于控制台的2.0正式版(后续可能有基于窗口的)
+-修复了2.0-b8的一些Bug
+-依赖源增加: https://api.qijieya.cn/   https://api.littleyouzi.com/
+-FwApi版本: 20210, 不兼容以前的版本
+
+FwMusic v2.0.1
+-修复了一些Bug
+
+FwMusic v2.0.2
+-删除了无法使用的api(L)
+
+FwMusic v2.0.3
+-修复了一些Bug
+
+FwMusic v2.0.4
+-支持更高的音质
+-修复了Playlist_v2
+-FwApi版本：20314
+
+FwMusic v2.0.5
+-支持下载字幕文件
+
+FwMusic v2.0.6C
+-修复了Playlist_v2
+-新增了：网抑云下载模式
+-基于控制台的2.0.6正式版
+
+FwMusic v2.0.7C
+-修复了Album
+-支持更高的音质，最高达到超清母带
+-基于控制台的2.0.7正式版
+
+FwMusic v2.0.8
+-加入了自检
+
+FwMusic v2.0.9
+-试图接入Toubiec (进度 : 约60%)
+-更新了Flog，加入了Config
