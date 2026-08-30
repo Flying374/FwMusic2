@@ -1,11 +1,13 @@
 最新版：
-FwMusic v2.2.1
+FwMusic v2.2.8C 
+FwMusic v2.2.9CW
 
 Latest Version: 
-FwMusic v2.2.1
+FwMusic v2.2.8C 
+FwMusic v2.2.9CW
 
-(目前尚未上传...QwQ)
-(Not uploaded yet...QwQ)
+(目前v2.2.8C尚未上传...QwQ)
+(v2.2.8C Not uploaded yet...QwQ)
 
 
 关于FwMusic2
@@ -20,3 +22,5 @@ A simple downloader to download music from netease music(and bilibili?).
 Based on FwMusic.  
 This product is for learning purposes only.   
 I am not responsible for any consequences resulting from the use of this product.
+
+2024.9.1 - 2026
